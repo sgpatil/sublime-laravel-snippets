@@ -1,0 +1,4 @@
+<snippet>
+<content><![CDATA[Route::get(${1:uri}, ${2:action});]]></content>
+<tabTrigger>r:g</tabTrigger>
+</snippet>
